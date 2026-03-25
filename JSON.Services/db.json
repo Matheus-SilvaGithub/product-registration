@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Dell Inspiron",
+      "price": 3599.90
+    },
+    {
+      "id": 2,
+      "name": "Mouse Sem Fio Logitech",
+      "price": 89.90
+    },
+    {
+      "id": 3,
+      "name": "Teclado Mecânico RGB",
+      "price": 249.90
+    },
+     {
+      "id": 1,
+      "name": "Smartphone Samsung Galaxy",
+      "price": 1999.90
+    },
+    {
+      "id": 2,
+      "name": "Fone de Ouvido Bluetooth",
+      "price": 129.90
+    },
+    {
+      "id": 3,
+      "name": "Carregador USB-C",
+      "price": 49.90
+    },
+    {
+      "id": 4,
+      "name": "Capa para Smartphone",
+      "price": 29.90
+    }
+  ]
+}
